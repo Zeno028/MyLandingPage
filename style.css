@@ -1,0 +1,55 @@
+.head{
+    color: rgb(14, 129, 91);
+    padding: 0px 20;
+  font-family: verdana;
+  font-size: 200%;
+}
+
+label{
+    color: rgba(2, 1, 0, 0.89);
+    font-family: verdana;
+    font-size: 150%;
+}
+div{
+    background-color: rgba(58, 22, 6, 0.2);
+    position: absolute;
+    align-items: center;
+    left:30%;
+    top:20%;
+    align-content: center;
+    text-align: center;
+    font-family: verdana;
+    font-size: 150%;
+}
+.body1{
+    height: 100vh;
+    margin: 15;
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(148, 136, 121);
+    background-image: url(barber.png);
+
+}
+body{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+.sbody{
+    height: 100vh;
+    margin: 15;
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(148, 136, 121);
+    background-image: url(hair.webp);
+
+}
+.click{
+    text-decoration: none;
+}
+.log{
+    text-decoration: none;
+    font-size: 200%;
+}
